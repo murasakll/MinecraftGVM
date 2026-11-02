@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:adventure/tree_combat_1","display":{"icon":{"id":"minecraft:arrow"},"title":"Caçador de esqueletos","description":"Derrote 6 esqueletos.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

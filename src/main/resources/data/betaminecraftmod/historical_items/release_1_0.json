@@ -1,0 +1,2011 @@
+{
+    "reference":  "Release 1.0",
+    "client_sha1":  "b679fea27f2284836202e9365e13a82552092e5d",
+    "break_rule":  "Reference breaks above limit; native maximum is limit + 1.",
+    "unmapped_legacy_ids":  [
+                                2,
+                                3,
+                                7,
+                                8,
+                                9,
+                                10,
+                                11,
+                                13,
+                                14,
+                                15,
+                                16,
+                                19,
+                                21,
+                                26,
+                                32,
+                                34,
+                                36,
+                                43,
+                                48,
+                                51,
+                                52,
+                                55,
+                                56,
+                                59,
+                                60,
+                                62,
+                                63,
+                                64,
+                                68,
+                                71,
+                                74,
+                                75,
+                                78,
+                                79,
+                                83,
+                                90,
+                                92,
+                                93,
+                                94,
+                                95,
+                                97,
+                                99,
+                                100,
+                                104,
+                                105,
+                                110,
+                                111,
+                                115,
+                                117,
+                                118,
+                                119,
+                                120,
+                                122,
+                                373,
+                                2258,
+                                2259,
+                                2260,
+                                2261,
+                                2262,
+                                2263,
+                                2264,
+                                2265,
+                                2266
+                            ],
+    "pending_adaptations":  [
+
+                            ],
+    "items":  [
+                  {
+                      "item":  "minecraft:stone",
+                      "legacy_id":  1,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:cobblestone",
+                      "legacy_id":  4,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:oak_planks",
+                      "legacy_id":  5,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:oak_sapling",
+                      "legacy_id":  6,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:spruce_sapling",
+                      "legacy_id":  6,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:birch_sapling",
+                      "legacy_id":  6,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:sand",
+                      "legacy_id":  12,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:oak_log",
+                      "legacy_id":  17,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:spruce_log",
+                      "legacy_id":  17,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:birch_log",
+                      "legacy_id":  17,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:oak_leaves",
+                      "legacy_id":  18,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:spruce_leaves",
+                      "legacy_id":  18,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:birch_leaves",
+                      "legacy_id":  18,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:glass",
+                      "legacy_id":  20,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:lapis_block",
+                      "legacy_id":  22,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:dispenser",
+                      "legacy_id":  23,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:sandstone",
+                      "legacy_id":  24,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:note_block",
+                      "legacy_id":  25,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:powered_rail",
+                      "legacy_id":  27,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:detector_rail",
+                      "legacy_id":  28,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:sticky_piston",
+                      "legacy_id":  29,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:cobweb",
+                      "legacy_id":  30,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:short_grass",
+                      "legacy_id":  31,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:piston",
+                      "legacy_id":  33,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:white_wool",
+                      "legacy_id":  35,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:orange_wool",
+                      "legacy_id":  35,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:magenta_wool",
+                      "legacy_id":  35,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:light_blue_wool",
+                      "legacy_id":  35,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:yellow_wool",
+                      "legacy_id":  35,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:lime_wool",
+                      "legacy_id":  35,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:pink_wool",
+                      "legacy_id":  35,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:gray_wool",
+                      "legacy_id":  35,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:light_gray_wool",
+                      "legacy_id":  35,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:cyan_wool",
+                      "legacy_id":  35,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:purple_wool",
+                      "legacy_id":  35,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:blue_wool",
+                      "legacy_id":  35,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:brown_wool",
+                      "legacy_id":  35,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:green_wool",
+                      "legacy_id":  35,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:red_wool",
+                      "legacy_id":  35,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:black_wool",
+                      "legacy_id":  35,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:dandelion",
+                      "legacy_id":  37,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:poppy",
+                      "legacy_id":  38,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:brown_mushroom",
+                      "legacy_id":  39,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:red_mushroom",
+                      "legacy_id":  40,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:gold_block",
+                      "legacy_id":  41,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:iron_block",
+                      "legacy_id":  42,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:smooth_stone_slab",
+                      "legacy_id":  44,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:sandstone_slab",
+                      "legacy_id":  44,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:oak_slab",
+                      "legacy_id":  44,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:cobblestone_slab",
+                      "legacy_id":  44,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:brick_slab",
+                      "legacy_id":  44,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:stone_brick_slab",
+                      "legacy_id":  44,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:bricks",
+                      "legacy_id":  45,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:tnt",
+                      "legacy_id":  46,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:bookshelf",
+                      "legacy_id":  47,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:obsidian",
+                      "legacy_id":  49,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:torch",
+                      "legacy_id":  50,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:oak_stairs",
+                      "legacy_id":  53,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:chest",
+                      "legacy_id":  54,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:diamond_block",
+                      "legacy_id":  57,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:crafting_table",
+                      "legacy_id":  58,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:furnace",
+                      "legacy_id":  61,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:ladder",
+                      "legacy_id":  65,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:rail",
+                      "legacy_id":  66,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:cobblestone_stairs",
+                      "legacy_id":  67,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:lever",
+                      "legacy_id":  69,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:stone_pressure_plate",
+                      "legacy_id":  70,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:oak_pressure_plate",
+                      "legacy_id":  72,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:redstone_ore",
+                      "legacy_id":  73,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:redstone_torch",
+                      "legacy_id":  76,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:stone_button",
+                      "legacy_id":  77,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:snow_block",
+                      "legacy_id":  80,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:cactus",
+                      "legacy_id":  81,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:clay",
+                      "legacy_id":  82,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:jukebox",
+                      "legacy_id":  84,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:oak_fence",
+                      "legacy_id":  85,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:carved_pumpkin",
+                      "legacy_id":  86,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:netherrack",
+                      "legacy_id":  87,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:soul_sand",
+                      "legacy_id":  88,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:glowstone",
+                      "legacy_id":  89,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:jack_o_lantern",
+                      "legacy_id":  91,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:oak_trapdoor",
+                      "legacy_id":  96,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:stone_bricks",
+                      "legacy_id":  98,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:mossy_stone_bricks",
+                      "legacy_id":  98,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:cracked_stone_bricks",
+                      "legacy_id":  98,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:chiseled_stone_bricks",
+                      "legacy_id":  98,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:iron_bars",
+                      "legacy_id":  101,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:glass_pane",
+                      "legacy_id":  102,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:melon",
+                      "legacy_id":  103,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:vine",
+                      "legacy_id":  106,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:oak_fence_gate",
+                      "legacy_id":  107,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:brick_stairs",
+                      "legacy_id":  108,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:stone_brick_stairs",
+                      "legacy_id":  109,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:nether_bricks",
+                      "legacy_id":  112,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:nether_brick_fence",
+                      "legacy_id":  113,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:nether_brick_stairs",
+                      "legacy_id":  114,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:enchanting_table",
+                      "legacy_id":  116,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:end_stone",
+                      "legacy_id":  121,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:iron_shovel",
+                      "legacy_id":  256,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  250,
+                      "max_damage":  251
+                  },
+                  {
+                      "item":  "minecraft:iron_pickaxe",
+                      "legacy_id":  257,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  250,
+                      "max_damage":  251
+                  },
+                  {
+                      "item":  "minecraft:iron_axe",
+                      "legacy_id":  258,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  250,
+                      "max_damage":  251
+                  },
+                  {
+                      "item":  "minecraft:flint_and_steel",
+                      "legacy_id":  259,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  64,
+                      "max_damage":  65
+                  },
+                  {
+                      "item":  "minecraft:apple",
+                      "legacy_id":  260,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:bow",
+                      "legacy_id":  261,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  384,
+                      "max_damage":  385
+                  },
+                  {
+                      "item":  "minecraft:arrow",
+                      "legacy_id":  262,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:coal",
+                      "legacy_id":  263,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:charcoal",
+                      "legacy_id":  263,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:diamond",
+                      "legacy_id":  264,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:iron_ingot",
+                      "legacy_id":  265,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:gold_ingot",
+                      "legacy_id":  266,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:iron_sword",
+                      "legacy_id":  267,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  250,
+                      "max_damage":  251
+                  },
+                  {
+                      "item":  "minecraft:wooden_sword",
+                      "legacy_id":  268,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  59,
+                      "max_damage":  60
+                  },
+                  {
+                      "item":  "minecraft:wooden_shovel",
+                      "legacy_id":  269,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  59,
+                      "max_damage":  60
+                  },
+                  {
+                      "item":  "minecraft:wooden_pickaxe",
+                      "legacy_id":  270,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  59,
+                      "max_damage":  60
+                  },
+                  {
+                      "item":  "minecraft:wooden_axe",
+                      "legacy_id":  271,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  59,
+                      "max_damage":  60
+                  },
+                  {
+                      "item":  "minecraft:stone_sword",
+                      "legacy_id":  272,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  131,
+                      "max_damage":  132
+                  },
+                  {
+                      "item":  "minecraft:stone_shovel",
+                      "legacy_id":  273,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  131,
+                      "max_damage":  132
+                  },
+                  {
+                      "item":  "minecraft:stone_pickaxe",
+                      "legacy_id":  274,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  131,
+                      "max_damage":  132
+                  },
+                  {
+                      "item":  "minecraft:stone_axe",
+                      "legacy_id":  275,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  131,
+                      "max_damage":  132
+                  },
+                  {
+                      "item":  "minecraft:diamond_sword",
+                      "legacy_id":  276,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  1561,
+                      "max_damage":  1562
+                  },
+                  {
+                      "item":  "minecraft:diamond_shovel",
+                      "legacy_id":  277,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  1561,
+                      "max_damage":  1562
+                  },
+                  {
+                      "item":  "minecraft:diamond_pickaxe",
+                      "legacy_id":  278,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  1561,
+                      "max_damage":  1562
+                  },
+                  {
+                      "item":  "minecraft:diamond_axe",
+                      "legacy_id":  279,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  1561,
+                      "max_damage":  1562
+                  },
+                  {
+                      "item":  "minecraft:stick",
+                      "legacy_id":  280,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:bowl",
+                      "legacy_id":  281,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:mushroom_stew",
+                      "legacy_id":  282,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:golden_sword",
+                      "legacy_id":  283,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  32,
+                      "max_damage":  33
+                  },
+                  {
+                      "item":  "minecraft:golden_shovel",
+                      "legacy_id":  284,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  32,
+                      "max_damage":  33
+                  },
+                  {
+                      "item":  "minecraft:golden_pickaxe",
+                      "legacy_id":  285,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  32,
+                      "max_damage":  33
+                  },
+                  {
+                      "item":  "minecraft:golden_axe",
+                      "legacy_id":  286,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  32,
+                      "max_damage":  33
+                  },
+                  {
+                      "item":  "minecraft:string",
+                      "legacy_id":  287,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:feather",
+                      "legacy_id":  288,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:gunpowder",
+                      "legacy_id":  289,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:wooden_hoe",
+                      "legacy_id":  290,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  59,
+                      "max_damage":  60
+                  },
+                  {
+                      "item":  "minecraft:stone_hoe",
+                      "legacy_id":  291,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  131,
+                      "max_damage":  132
+                  },
+                  {
+                      "item":  "minecraft:iron_hoe",
+                      "legacy_id":  292,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  250,
+                      "max_damage":  251
+                  },
+                  {
+                      "item":  "minecraft:diamond_hoe",
+                      "legacy_id":  293,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  1561,
+                      "max_damage":  1562
+                  },
+                  {
+                      "item":  "minecraft:golden_hoe",
+                      "legacy_id":  294,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  32,
+                      "max_damage":  33
+                  },
+                  {
+                      "item":  "minecraft:wheat_seeds",
+                      "legacy_id":  295,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:wheat",
+                      "legacy_id":  296,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:bread",
+                      "legacy_id":  297,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:leather_helmet",
+                      "legacy_id":  298,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  55,
+                      "max_damage":  56
+                  },
+                  {
+                      "item":  "minecraft:leather_chestplate",
+                      "legacy_id":  299,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  80,
+                      "max_damage":  81
+                  },
+                  {
+                      "item":  "minecraft:leather_leggings",
+                      "legacy_id":  300,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  75,
+                      "max_damage":  76
+                  },
+                  {
+                      "item":  "minecraft:leather_boots",
+                      "legacy_id":  301,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  65,
+                      "max_damage":  66
+                  },
+                  {
+                      "item":  "minecraft:chainmail_helmet",
+                      "legacy_id":  302,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  165,
+                      "max_damage":  166
+                  },
+                  {
+                      "item":  "minecraft:chainmail_chestplate",
+                      "legacy_id":  303,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  240,
+                      "max_damage":  241
+                  },
+                  {
+                      "item":  "minecraft:chainmail_leggings",
+                      "legacy_id":  304,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  225,
+                      "max_damage":  226
+                  },
+                  {
+                      "item":  "minecraft:chainmail_boots",
+                      "legacy_id":  305,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  195,
+                      "max_damage":  196
+                  },
+                  {
+                      "item":  "minecraft:iron_helmet",
+                      "legacy_id":  306,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  165,
+                      "max_damage":  166
+                  },
+                  {
+                      "item":  "minecraft:iron_chestplate",
+                      "legacy_id":  307,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  240,
+                      "max_damage":  241
+                  },
+                  {
+                      "item":  "minecraft:iron_leggings",
+                      "legacy_id":  308,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  225,
+                      "max_damage":  226
+                  },
+                  {
+                      "item":  "minecraft:iron_boots",
+                      "legacy_id":  309,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  195,
+                      "max_damage":  196
+                  },
+                  {
+                      "item":  "minecraft:diamond_helmet",
+                      "legacy_id":  310,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  363,
+                      "max_damage":  364
+                  },
+                  {
+                      "item":  "minecraft:diamond_chestplate",
+                      "legacy_id":  311,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  528,
+                      "max_damage":  529
+                  },
+                  {
+                      "item":  "minecraft:diamond_leggings",
+                      "legacy_id":  312,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  495,
+                      "max_damage":  496
+                  },
+                  {
+                      "item":  "minecraft:diamond_boots",
+                      "legacy_id":  313,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  429,
+                      "max_damage":  430
+                  },
+                  {
+                      "item":  "minecraft:golden_helmet",
+                      "legacy_id":  314,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  77,
+                      "max_damage":  78
+                  },
+                  {
+                      "item":  "minecraft:golden_chestplate",
+                      "legacy_id":  315,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  112,
+                      "max_damage":  113
+                  },
+                  {
+                      "item":  "minecraft:golden_leggings",
+                      "legacy_id":  316,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  105,
+                      "max_damage":  106
+                  },
+                  {
+                      "item":  "minecraft:golden_boots",
+                      "legacy_id":  317,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  91,
+                      "max_damage":  92
+                  },
+                  {
+                      "item":  "minecraft:flint",
+                      "legacy_id":  318,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:porkchop",
+                      "legacy_id":  319,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:cooked_porkchop",
+                      "legacy_id":  320,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:painting",
+                      "legacy_id":  321,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:golden_apple",
+                      "legacy_id":  322,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:oak_sign",
+                      "legacy_id":  323,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:oak_door",
+                      "legacy_id":  324,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:bucket",
+                      "legacy_id":  325,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:water_bucket",
+                      "legacy_id":  326,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:lava_bucket",
+                      "legacy_id":  327,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:minecart",
+                      "legacy_id":  328,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:saddle",
+                      "legacy_id":  329,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:iron_door",
+                      "legacy_id":  330,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:redstone",
+                      "legacy_id":  331,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:snowball",
+                      "legacy_id":  332,
+                      "max_stack":  16,
+                      "reference_stack":  16,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:oak_boat",
+                      "legacy_id":  333,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:leather",
+                      "legacy_id":  334,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:milk_bucket",
+                      "legacy_id":  335,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:brick",
+                      "legacy_id":  336,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:clay_ball",
+                      "legacy_id":  337,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:sugar_cane",
+                      "legacy_id":  338,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:paper",
+                      "legacy_id":  339,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:book",
+                      "legacy_id":  340,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:slime_ball",
+                      "legacy_id":  341,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:chest_minecart",
+                      "legacy_id":  342,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:furnace_minecart",
+                      "legacy_id":  343,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:egg",
+                      "legacy_id":  344,
+                      "max_stack":  16,
+                      "reference_stack":  16,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:compass",
+                      "legacy_id":  345,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:fishing_rod",
+                      "legacy_id":  346,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  64,
+                      "max_damage":  65
+                  },
+                  {
+                      "item":  "minecraft:clock",
+                      "legacy_id":  347,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:glowstone_dust",
+                      "legacy_id":  348,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:cod",
+                      "legacy_id":  349,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:cooked_cod",
+                      "legacy_id":  350,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:ink_sac",
+                      "legacy_id":  351,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:red_dye",
+                      "legacy_id":  351,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:green_dye",
+                      "legacy_id":  351,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:cocoa_beans",
+                      "legacy_id":  351,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:lapis_lazuli",
+                      "legacy_id":  351,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:purple_dye",
+                      "legacy_id":  351,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:cyan_dye",
+                      "legacy_id":  351,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:light_gray_dye",
+                      "legacy_id":  351,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:gray_dye",
+                      "legacy_id":  351,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:pink_dye",
+                      "legacy_id":  351,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:lime_dye",
+                      "legacy_id":  351,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:yellow_dye",
+                      "legacy_id":  351,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:light_blue_dye",
+                      "legacy_id":  351,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:magenta_dye",
+                      "legacy_id":  351,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:orange_dye",
+                      "legacy_id":  351,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:bone_meal",
+                      "legacy_id":  351,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:bone",
+                      "legacy_id":  352,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:sugar",
+                      "legacy_id":  353,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:cake",
+                      "legacy_id":  354,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:red_bed",
+                      "legacy_id":  355,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:repeater",
+                      "legacy_id":  356,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:cookie",
+                      "legacy_id":  357,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:filled_map",
+                      "legacy_id":  358,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:shears",
+                      "legacy_id":  359,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  238,
+                      "max_damage":  239
+                  },
+                  {
+                      "item":  "minecraft:melon_slice",
+                      "legacy_id":  360,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:pumpkin_seeds",
+                      "legacy_id":  361,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:melon_seeds",
+                      "legacy_id":  362,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:beef",
+                      "legacy_id":  363,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:cooked_beef",
+                      "legacy_id":  364,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:chicken",
+                      "legacy_id":  365,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:cooked_chicken",
+                      "legacy_id":  366,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:rotten_flesh",
+                      "legacy_id":  367,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:ender_pearl",
+                      "legacy_id":  368,
+                      "max_stack":  16,
+                      "reference_stack":  16,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:blaze_rod",
+                      "legacy_id":  369,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:ghast_tear",
+                      "legacy_id":  370,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:gold_nugget",
+                      "legacy_id":  371,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:nether_wart",
+                      "legacy_id":  372,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:glass_bottle",
+                      "legacy_id":  374,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:spider_eye",
+                      "legacy_id":  375,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:fermented_spider_eye",
+                      "legacy_id":  376,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:blaze_powder",
+                      "legacy_id":  377,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:magma_cream",
+                      "legacy_id":  378,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:brewing_stand",
+                      "legacy_id":  379,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:cauldron",
+                      "legacy_id":  380,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:ender_eye",
+                      "legacy_id":  381,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:glistering_melon_slice",
+                      "legacy_id":  382,
+                      "max_stack":  64,
+                      "reference_stack":  64,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:music_disc_13",
+                      "legacy_id":  2256,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  },
+                  {
+                      "item":  "minecraft:music_disc_cat",
+                      "legacy_id":  2257,
+                      "max_stack":  1,
+                      "reference_stack":  1,
+                      "reference_damage":  0,
+                      "max_damage":  0
+                  }
+              ]
+}

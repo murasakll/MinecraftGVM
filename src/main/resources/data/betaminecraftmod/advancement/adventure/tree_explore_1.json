@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:adventure/tree_explore_0","display":{"icon":{"id":"minecraft:ender_pearl"},"title":"Pérolas misteriosas","description":"Tenha 4 pérolas de Ender; ainda não é preciso usá-las.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

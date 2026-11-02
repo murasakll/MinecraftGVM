@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:adventure/tree_intro","display":{"icon":{"id":"minecraft:bow"},"title":"Arco de aventura","description":"Tenha um arco.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

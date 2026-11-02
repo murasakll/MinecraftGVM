@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:halloween/tree_explore_2","display":{"icon":{"id":"minecraft:obsidian"},"title":"Uma rota de volta","description":"Retorne do Nether ao Overworld nesta era.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

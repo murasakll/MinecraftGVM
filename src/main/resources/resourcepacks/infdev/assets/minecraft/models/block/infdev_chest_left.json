@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "east": "minecraft:block/infdev_chest_side",
+    "west": "minecraft:block/infdev_chest_side",
+    "north": "minecraft:block/infdev_chest_front_right",
+    "south": "minecraft:block/infdev_chest_back_left",
+    "up": "minecraft:block/infdev_chest_top",
+    "down": "minecraft:block/infdev_chest_top",
+    "particle": "minecraft:block/infdev_chest_side"
+  }
+}

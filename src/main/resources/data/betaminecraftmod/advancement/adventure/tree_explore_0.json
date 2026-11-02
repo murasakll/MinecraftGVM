@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:adventure/tree_intro","display":{"icon":{"id":"minecraft:compass"},"title":"Além do horizonte","description":"Caminhe 768 blocos nesta era.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

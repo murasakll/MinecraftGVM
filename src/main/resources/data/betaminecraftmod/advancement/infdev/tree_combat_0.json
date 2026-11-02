@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:infdev/tree_intro","display":{"icon":{"id":"minecraft:stone_sword"},"title":"Uma arma preparada","description":"Tenha uma espada de pedra ou ferro.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

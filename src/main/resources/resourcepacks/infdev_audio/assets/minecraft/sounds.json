@@ -1,0 +1,1028 @@
+{
+  "block.stone.step": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/sound/step/stone1",
+      "betaminecraftmod:infdev/newsound/step/stone2",
+      "betaminecraftmod:infdev/newsound/step/stone3",
+      "betaminecraftmod:infdev/newsound/step/stone1",
+      "betaminecraftmod:infdev/sound/step/stone4",
+      "betaminecraftmod:infdev/newsound/step/stone4",
+      "betaminecraftmod:infdev/sound/step/stone3",
+      "betaminecraftmod:infdev/sound/step/stone2"
+    ]
+  },
+  "block.stone.break": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/sound/step/stone1",
+      "betaminecraftmod:infdev/newsound/step/stone2",
+      "betaminecraftmod:infdev/newsound/step/stone3",
+      "betaminecraftmod:infdev/newsound/step/stone1",
+      "betaminecraftmod:infdev/sound/step/stone4",
+      "betaminecraftmod:infdev/newsound/step/stone4",
+      "betaminecraftmod:infdev/sound/step/stone3",
+      "betaminecraftmod:infdev/sound/step/stone2"
+    ]
+  },
+  "block.stone.place": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/sound/step/stone1",
+      "betaminecraftmod:infdev/newsound/step/stone2",
+      "betaminecraftmod:infdev/newsound/step/stone3",
+      "betaminecraftmod:infdev/newsound/step/stone1",
+      "betaminecraftmod:infdev/sound/step/stone4",
+      "betaminecraftmod:infdev/newsound/step/stone4",
+      "betaminecraftmod:infdev/sound/step/stone3",
+      "betaminecraftmod:infdev/sound/step/stone2"
+    ]
+  },
+  "block.stone.hit": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/sound/step/stone1",
+      "betaminecraftmod:infdev/newsound/step/stone2",
+      "betaminecraftmod:infdev/newsound/step/stone3",
+      "betaminecraftmod:infdev/newsound/step/stone1",
+      "betaminecraftmod:infdev/sound/step/stone4",
+      "betaminecraftmod:infdev/newsound/step/stone4",
+      "betaminecraftmod:infdev/sound/step/stone3",
+      "betaminecraftmod:infdev/sound/step/stone2"
+    ]
+  },
+  "block.stone.fall": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/sound/step/stone1",
+      "betaminecraftmod:infdev/newsound/step/stone2",
+      "betaminecraftmod:infdev/newsound/step/stone3",
+      "betaminecraftmod:infdev/newsound/step/stone1",
+      "betaminecraftmod:infdev/sound/step/stone4",
+      "betaminecraftmod:infdev/newsound/step/stone4",
+      "betaminecraftmod:infdev/sound/step/stone3",
+      "betaminecraftmod:infdev/sound/step/stone2"
+    ]
+  },
+  "block.grass.step": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/grass4",
+      "betaminecraftmod:infdev/newsound/step/grass2",
+      "betaminecraftmod:infdev/sound/step/grass1",
+      "betaminecraftmod:infdev/newsound/step/grass3",
+      "betaminecraftmod:infdev/sound/step/grass2",
+      "betaminecraftmod:infdev/newsound/step/grass1",
+      "betaminecraftmod:infdev/sound/step/grass3",
+      "betaminecraftmod:infdev/sound/step/grass4"
+    ]
+  },
+  "block.grass.break": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/grass4",
+      "betaminecraftmod:infdev/newsound/step/grass2",
+      "betaminecraftmod:infdev/sound/step/grass1",
+      "betaminecraftmod:infdev/newsound/step/grass3",
+      "betaminecraftmod:infdev/sound/step/grass2",
+      "betaminecraftmod:infdev/newsound/step/grass1",
+      "betaminecraftmod:infdev/sound/step/grass3",
+      "betaminecraftmod:infdev/sound/step/grass4"
+    ]
+  },
+  "block.grass.place": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/grass4",
+      "betaminecraftmod:infdev/newsound/step/grass2",
+      "betaminecraftmod:infdev/sound/step/grass1",
+      "betaminecraftmod:infdev/newsound/step/grass3",
+      "betaminecraftmod:infdev/sound/step/grass2",
+      "betaminecraftmod:infdev/newsound/step/grass1",
+      "betaminecraftmod:infdev/sound/step/grass3",
+      "betaminecraftmod:infdev/sound/step/grass4"
+    ]
+  },
+  "block.grass.hit": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/grass4",
+      "betaminecraftmod:infdev/newsound/step/grass2",
+      "betaminecraftmod:infdev/sound/step/grass1",
+      "betaminecraftmod:infdev/newsound/step/grass3",
+      "betaminecraftmod:infdev/sound/step/grass2",
+      "betaminecraftmod:infdev/newsound/step/grass1",
+      "betaminecraftmod:infdev/sound/step/grass3",
+      "betaminecraftmod:infdev/sound/step/grass4"
+    ]
+  },
+  "block.grass.fall": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/grass4",
+      "betaminecraftmod:infdev/newsound/step/grass2",
+      "betaminecraftmod:infdev/sound/step/grass1",
+      "betaminecraftmod:infdev/newsound/step/grass3",
+      "betaminecraftmod:infdev/sound/step/grass2",
+      "betaminecraftmod:infdev/newsound/step/grass1",
+      "betaminecraftmod:infdev/sound/step/grass3",
+      "betaminecraftmod:infdev/sound/step/grass4"
+    ]
+  },
+  "block.gravel.step": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/gravel3",
+      "betaminecraftmod:infdev/sound/step/gravel1",
+      "betaminecraftmod:infdev/newsound/step/gravel4",
+      "betaminecraftmod:infdev/sound/step/gravel4",
+      "betaminecraftmod:infdev/newsound/step/gravel1",
+      "betaminecraftmod:infdev/sound/step/gravel2",
+      "betaminecraftmod:infdev/sound/step/gravel3",
+      "betaminecraftmod:infdev/newsound/step/gravel2"
+    ]
+  },
+  "block.gravel.break": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/gravel3",
+      "betaminecraftmod:infdev/sound/step/gravel1",
+      "betaminecraftmod:infdev/newsound/step/gravel4",
+      "betaminecraftmod:infdev/sound/step/gravel4",
+      "betaminecraftmod:infdev/newsound/step/gravel1",
+      "betaminecraftmod:infdev/sound/step/gravel2",
+      "betaminecraftmod:infdev/sound/step/gravel3",
+      "betaminecraftmod:infdev/newsound/step/gravel2"
+    ]
+  },
+  "block.gravel.place": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/gravel3",
+      "betaminecraftmod:infdev/sound/step/gravel1",
+      "betaminecraftmod:infdev/newsound/step/gravel4",
+      "betaminecraftmod:infdev/sound/step/gravel4",
+      "betaminecraftmod:infdev/newsound/step/gravel1",
+      "betaminecraftmod:infdev/sound/step/gravel2",
+      "betaminecraftmod:infdev/sound/step/gravel3",
+      "betaminecraftmod:infdev/newsound/step/gravel2"
+    ]
+  },
+  "block.gravel.hit": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/gravel3",
+      "betaminecraftmod:infdev/sound/step/gravel1",
+      "betaminecraftmod:infdev/newsound/step/gravel4",
+      "betaminecraftmod:infdev/sound/step/gravel4",
+      "betaminecraftmod:infdev/newsound/step/gravel1",
+      "betaminecraftmod:infdev/sound/step/gravel2",
+      "betaminecraftmod:infdev/sound/step/gravel3",
+      "betaminecraftmod:infdev/newsound/step/gravel2"
+    ]
+  },
+  "block.gravel.fall": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/gravel3",
+      "betaminecraftmod:infdev/sound/step/gravel1",
+      "betaminecraftmod:infdev/newsound/step/gravel4",
+      "betaminecraftmod:infdev/sound/step/gravel4",
+      "betaminecraftmod:infdev/newsound/step/gravel1",
+      "betaminecraftmod:infdev/sound/step/gravel2",
+      "betaminecraftmod:infdev/sound/step/gravel3",
+      "betaminecraftmod:infdev/newsound/step/gravel2"
+    ]
+  },
+  "block.sand.step": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/sand4",
+      "betaminecraftmod:infdev/newsound/step/sand2",
+      "betaminecraftmod:infdev/newsound/step/sand3",
+      "betaminecraftmod:infdev/newsound/step/sand1"
+    ]
+  },
+  "block.sand.break": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/sand4",
+      "betaminecraftmod:infdev/newsound/step/sand2",
+      "betaminecraftmod:infdev/newsound/step/sand3",
+      "betaminecraftmod:infdev/newsound/step/sand1"
+    ]
+  },
+  "block.sand.place": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/sand4",
+      "betaminecraftmod:infdev/newsound/step/sand2",
+      "betaminecraftmod:infdev/newsound/step/sand3",
+      "betaminecraftmod:infdev/newsound/step/sand1"
+    ]
+  },
+  "block.sand.hit": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/sand4",
+      "betaminecraftmod:infdev/newsound/step/sand2",
+      "betaminecraftmod:infdev/newsound/step/sand3",
+      "betaminecraftmod:infdev/newsound/step/sand1"
+    ]
+  },
+  "block.sand.fall": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/sand4",
+      "betaminecraftmod:infdev/newsound/step/sand2",
+      "betaminecraftmod:infdev/newsound/step/sand3",
+      "betaminecraftmod:infdev/newsound/step/sand1"
+    ]
+  },
+  "block.wood.step": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/sound/step/wood1",
+      "betaminecraftmod:infdev/sound/step/wood2",
+      "betaminecraftmod:infdev/sound/step/wood3",
+      "betaminecraftmod:infdev/sound/step/wood4",
+      "betaminecraftmod:infdev/newsound/step/wood4",
+      "betaminecraftmod:infdev/newsound/step/wood1",
+      "betaminecraftmod:infdev/newsound/step/wood2",
+      "betaminecraftmod:infdev/newsound/step/wood3"
+    ]
+  },
+  "block.wood.break": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/sound/step/wood1",
+      "betaminecraftmod:infdev/sound/step/wood2",
+      "betaminecraftmod:infdev/sound/step/wood3",
+      "betaminecraftmod:infdev/sound/step/wood4",
+      "betaminecraftmod:infdev/newsound/step/wood4",
+      "betaminecraftmod:infdev/newsound/step/wood1",
+      "betaminecraftmod:infdev/newsound/step/wood2",
+      "betaminecraftmod:infdev/newsound/step/wood3"
+    ]
+  },
+  "block.wood.place": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/sound/step/wood1",
+      "betaminecraftmod:infdev/sound/step/wood2",
+      "betaminecraftmod:infdev/sound/step/wood3",
+      "betaminecraftmod:infdev/sound/step/wood4",
+      "betaminecraftmod:infdev/newsound/step/wood4",
+      "betaminecraftmod:infdev/newsound/step/wood1",
+      "betaminecraftmod:infdev/newsound/step/wood2",
+      "betaminecraftmod:infdev/newsound/step/wood3"
+    ]
+  },
+  "block.wood.hit": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/sound/step/wood1",
+      "betaminecraftmod:infdev/sound/step/wood2",
+      "betaminecraftmod:infdev/sound/step/wood3",
+      "betaminecraftmod:infdev/sound/step/wood4",
+      "betaminecraftmod:infdev/newsound/step/wood4",
+      "betaminecraftmod:infdev/newsound/step/wood1",
+      "betaminecraftmod:infdev/newsound/step/wood2",
+      "betaminecraftmod:infdev/newsound/step/wood3"
+    ]
+  },
+  "block.wood.fall": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/sound/step/wood1",
+      "betaminecraftmod:infdev/sound/step/wood2",
+      "betaminecraftmod:infdev/sound/step/wood3",
+      "betaminecraftmod:infdev/sound/step/wood4",
+      "betaminecraftmod:infdev/newsound/step/wood4",
+      "betaminecraftmod:infdev/newsound/step/wood1",
+      "betaminecraftmod:infdev/newsound/step/wood2",
+      "betaminecraftmod:infdev/newsound/step/wood3"
+    ]
+  },
+  "block.wool.step": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/cloth2",
+      "betaminecraftmod:infdev/newsound/step/cloth1",
+      "betaminecraftmod:infdev/newsound/step/cloth4",
+      "betaminecraftmod:infdev/newsound/step/cloth3"
+    ]
+  },
+  "block.wool.break": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/cloth2",
+      "betaminecraftmod:infdev/newsound/step/cloth1",
+      "betaminecraftmod:infdev/newsound/step/cloth4",
+      "betaminecraftmod:infdev/newsound/step/cloth3"
+    ]
+  },
+  "block.wool.place": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/cloth2",
+      "betaminecraftmod:infdev/newsound/step/cloth1",
+      "betaminecraftmod:infdev/newsound/step/cloth4",
+      "betaminecraftmod:infdev/newsound/step/cloth3"
+    ]
+  },
+  "block.wool.hit": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/cloth2",
+      "betaminecraftmod:infdev/newsound/step/cloth1",
+      "betaminecraftmod:infdev/newsound/step/cloth4",
+      "betaminecraftmod:infdev/newsound/step/cloth3"
+    ]
+  },
+  "block.wool.fall": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/cloth2",
+      "betaminecraftmod:infdev/newsound/step/cloth1",
+      "betaminecraftmod:infdev/newsound/step/cloth4",
+      "betaminecraftmod:infdev/newsound/step/cloth3"
+    ]
+  },
+  "block.snow.step": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/snow1",
+      "betaminecraftmod:infdev/newsound/step/snow2",
+      "betaminecraftmod:infdev/newsound/step/snow3",
+      "betaminecraftmod:infdev/newsound/step/snow4"
+    ]
+  },
+  "block.snow.break": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/snow1",
+      "betaminecraftmod:infdev/newsound/step/snow2",
+      "betaminecraftmod:infdev/newsound/step/snow3",
+      "betaminecraftmod:infdev/newsound/step/snow4"
+    ]
+  },
+  "block.snow.place": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/snow1",
+      "betaminecraftmod:infdev/newsound/step/snow2",
+      "betaminecraftmod:infdev/newsound/step/snow3",
+      "betaminecraftmod:infdev/newsound/step/snow4"
+    ]
+  },
+  "block.snow.hit": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/snow1",
+      "betaminecraftmod:infdev/newsound/step/snow2",
+      "betaminecraftmod:infdev/newsound/step/snow3",
+      "betaminecraftmod:infdev/newsound/step/snow4"
+    ]
+  },
+  "block.snow.fall": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/step/snow1",
+      "betaminecraftmod:infdev/newsound/step/snow2",
+      "betaminecraftmod:infdev/newsound/step/snow3",
+      "betaminecraftmod:infdev/newsound/step/snow4"
+    ]
+  },
+  "entity.pig.ambient": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/mob/pig1",
+      "betaminecraftmod:infdev/newsound/mob/pig2",
+      "betaminecraftmod:infdev/newsound/mob/pig3"
+    ]
+  },
+  "entity.pig.hurt": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/mob/pig1",
+      "betaminecraftmod:infdev/newsound/mob/pig2",
+      "betaminecraftmod:infdev/newsound/mob/pig3"
+    ]
+  },
+  "entity.pig.death": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/mob/pigdeath"
+    ]
+  },
+  "entity.sheep.ambient": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/mob/sheep3",
+      "betaminecraftmod:infdev/newsound/mob/sheep1",
+      "betaminecraftmod:infdev/newsound/mob/sheep2"
+    ]
+  },
+  "entity.sheep.hurt": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/mob/sheep3",
+      "betaminecraftmod:infdev/newsound/mob/sheep1",
+      "betaminecraftmod:infdev/newsound/mob/sheep2"
+    ]
+  },
+  "entity.sheep.death": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/mob/sheep3",
+      "betaminecraftmod:infdev/newsound/mob/sheep1",
+      "betaminecraftmod:infdev/newsound/mob/sheep2"
+    ]
+  },
+  "entity.player.hurt": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/hurt"
+    ]
+  },
+  "entity.player.hurt_on_fire": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/hurt"
+    ]
+  },
+  "entity.player.hurt_drown": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/hurt"
+    ]
+  },
+  "entity.player.death": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/hurt"
+    ]
+  },
+  "entity.arrow.shoot": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/bow"
+    ]
+  },
+  "entity.arrow.hit": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/drr"
+    ]
+  },
+  "entity.generic.explode": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/explode"
+    ]
+  },
+  "entity.tnt.primed": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/fuse"
+    ]
+  },
+  "entity.creeper.primed": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/fuse"
+    ]
+  },
+  "entity.item.pickup": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/pop"
+    ]
+  },
+  "block.fire.ambient": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/fire/fire"
+    ]
+  },
+  "item.flintandsteel.use": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/fire/ignite"
+    ]
+  },
+  "block.lava.ambient": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/liquid/lava"
+    ]
+  },
+  "block.lava.pop": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/liquid/lavapop"
+    ]
+  },
+  "block.fire.extinguish": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/fizz"
+    ]
+  },
+  "block.water.ambient": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/liquid/water"
+    ]
+  },
+  "entity.player.splash": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/splash"
+    ]
+  },
+  "entity.generic.splash": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/splash"
+    ]
+  },
+  "block.glass.break": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/glass1",
+      "betaminecraftmod:infdev/newsound/random/glass2",
+      "betaminecraftmod:infdev/newsound/random/glass3"
+    ]
+  },
+  "block.wooden_door.open": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/door_close"
+    ]
+  },
+  "block.wooden_door.close": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/door_open"
+    ]
+  },
+  "block.chest.open": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/door_close"
+    ]
+  },
+  "block.chest.close": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/door_open"
+    ]
+  },
+  "ui.button.click": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/click"
+    ]
+  },
+  "entity.zombie.hurt": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/hurt"
+    ]
+  },
+  "entity.zombie.death": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/hurt"
+    ]
+  },
+  "entity.skeleton.hurt": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/hurt"
+    ]
+  },
+  "entity.skeleton.death": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/hurt"
+    ]
+  },
+  "entity.spider.hurt": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/hurt"
+    ]
+  },
+  "entity.spider.death": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/hurt"
+    ]
+  },
+  "entity.creeper.hurt": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/hurt"
+    ]
+  },
+  "entity.creeper.death": {
+    "replace": true,
+    "sounds": [
+      "betaminecraftmod:infdev/newsound/random/hurt"
+    ]
+  },
+  "music.creative": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.game": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.badlands": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.bamboo_jungle": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.cherry_grove": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.deep_dark": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.desert": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.dripstone_caves": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.flower_forest": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.forest": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.frozen_peaks": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.grove": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.jagged_peaks": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.jungle": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.lush_caves": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.meadow": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.old_growth_taiga": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.snowy_slopes": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.sparse_jungle": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.stony_peaks": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.sulfur_caves": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.swamp": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "music.under_water": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      },
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  }
+}

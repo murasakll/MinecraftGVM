@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:adventure/tree_build_1","display":{"icon":{"id":"minecraft:bread"},"title":"Da fazenda à mesa","description":"Fabrique 16 pães nesta era; podem ser feitos em várias levas.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

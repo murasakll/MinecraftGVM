@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:halloween/tree_intro","display":{"icon":{"id":"minecraft:flint_and_steel"},"title":"A travessia","description":"Construa e atravesse um portal para o Nether.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

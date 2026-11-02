@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": "Infdev audio reference 20100607",
+    "min_format": [
+      97,
+      1
+    ],
+    "max_format": [
+      97,
+      1
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:release_1_0/tree_intro","display":{"icon":{"id":"minecraft:bow"},"title":"Arco para a ilha","description":"Tenha um arco.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:release_1_0/tree_build_2","display":{"icon":{"id":"minecraft:potion"},"title":"Alquimia aplicada","description":"Tenha uma poção com efeito, não apenas água.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

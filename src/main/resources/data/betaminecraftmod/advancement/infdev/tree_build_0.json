@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:infdev/tree_intro","display":{"icon":{"id":"minecraft:cobblestone"},"title":"Seu território","description":"Coloque blocos sólidos para preparar sua posição. Formato e material ficam a seu critério.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

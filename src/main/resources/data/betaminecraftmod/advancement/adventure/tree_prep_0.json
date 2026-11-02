@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:adventure/tree_intro","display":{"icon":{"id":"minecraft:bread"},"title":"A fome chegou","description":"Tenha 12 pães.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

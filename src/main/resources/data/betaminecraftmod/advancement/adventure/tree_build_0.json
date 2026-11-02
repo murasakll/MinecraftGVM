@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:adventure/tree_intro","display":{"icon":{"id":"minecraft:iron_hoe"},"title":"Solo para produzir","description":"Prepare ao menos 16 blocos de terra arada perto de você.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:halloween/tree_prep_0","display":{"icon":{"id":"minecraft:iron_pickaxe"},"title":"Ferramenta confiável","description":"Tenha uma picareta de ferro.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

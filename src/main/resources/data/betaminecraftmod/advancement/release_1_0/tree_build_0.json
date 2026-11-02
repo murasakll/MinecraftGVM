@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:release_1_0/tree_intro","display":{"icon":{"id":"minecraft:stone_bricks"},"title":"Defesa reconstruída","description":"Coloque 128 blocos sólidos nesta era.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

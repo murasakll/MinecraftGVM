@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:halloween/tree_intro","display":{"icon":{"id":"minecraft:iron_ingot"},"title":"Preparar ferro","description":"Tenha 24 barras de ferro.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

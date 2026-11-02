@@ -1,0 +1,5 @@
+# reference collision_min_x collision_min_y collision_min_z collision_max_x collision_max_y collision_max_z
+b1.7.3 0.0 0.0 0.0 1.0 1.0 1.0
+b1.8.1 0.0 0.0 0.0 1.0 1.0 1.0
+1.0 0.0 0.0 0.0 1.0 1.0 1.0
+1.2.5 0.0 0.0 0.0 1.0 1.0 1.0

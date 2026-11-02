@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:beta/tree_intro","display":{"icon":{"id":"minecraft:compass"},"title":"Reconhecer a Beta","description":"Caminhe 512 blocos nesta era, sem montarias.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

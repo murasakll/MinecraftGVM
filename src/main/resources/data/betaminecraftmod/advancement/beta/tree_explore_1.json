@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:beta/tree_explore_0","display":{"icon":{"id":"minecraft:lapis_lazuli"},"title":"Azul nas profundezas","description":"Tenha 8 lápis-lazúlis.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

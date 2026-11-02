@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:release_1_0/tree_explore_4","display":{"icon":{"id":"minecraft:dragon_egg"},"title":"O retorno","description":"Retorne do End após a derrota do dragão.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:release_1_0/tree_intro","display":{"icon":{"id":"minecraft:diamond_pickaxe"},"title":"Exploração equipada","description":"Tenha uma picareta de diamante.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:infdev_late/tree_build_1","display":{"icon":{"id":"minecraft:furnace"},"title":"Oficina instalada","description":"Tenha uma fornalha para instalar na base.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

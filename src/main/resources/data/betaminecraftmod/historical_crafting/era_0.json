@@ -1,0 +1,1058 @@
+{
+  "reference": "Infdev 20100617-1531",
+  "client_sha1": "d3eb1dce5a6c86dd0d6483ba56223276dcf32c30",
+  "source_recipe_count": 73,
+  "omitted": [
+    {
+      "source_index": 13,
+      "reason": "Fire block has no item representation in the modern registry; historically unobtainable chainmail recipe."
+    },
+    {
+      "source_index": 14,
+      "reason": "Fire block has no item representation in the modern registry; historically unobtainable chainmail recipe."
+    },
+    {
+      "source_index": 39,
+      "reason": "Fire block has no item representation in the modern registry; historically unobtainable chainmail recipe."
+    },
+    {
+      "source_index": 40,
+      "reason": "Fire block has no item representation in the modern registry; historically unobtainable chainmail recipe."
+    }
+  ],
+  "recipes": [
+    {
+      "id": "r000",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        null,
+        "minecraft:stick",
+        null,
+        null,
+        "minecraft:stick",
+        null
+      ],
+      "result": "minecraft:wooden_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "r001",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:cobblestone",
+        "minecraft:cobblestone",
+        "minecraft:cobblestone",
+        null,
+        "minecraft:stick",
+        null,
+        null,
+        "minecraft:stick",
+        null
+      ],
+      "result": "minecraft:stone_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "r002",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        null,
+        "minecraft:stick",
+        null,
+        null,
+        "minecraft:stick",
+        null
+      ],
+      "result": "minecraft:iron_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "r003",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond",
+        null,
+        "minecraft:stick",
+        null,
+        null,
+        "minecraft:stick",
+        null
+      ],
+      "result": "minecraft:diamond_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "r004",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        null,
+        "minecraft:stick",
+        null,
+        null,
+        "minecraft:stick",
+        null
+      ],
+      "result": "minecraft:golden_pickaxe",
+      "count": 1
+    },
+    {
+      "id": "r005",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        null,
+        "minecraft:stick",
+        "minecraft:string",
+        "minecraft:stick",
+        null,
+        "minecraft:string",
+        null,
+        "minecraft:stick",
+        "minecraft:string"
+      ],
+      "result": "minecraft:bow",
+      "count": 1
+    },
+    {
+      "id": "r006",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot"
+      ],
+      "result": "minecraft:gold_block",
+      "count": 1
+    },
+    {
+      "id": "r007",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot"
+      ],
+      "result": "minecraft:iron_block",
+      "count": 1
+    },
+    {
+      "id": "r008",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond"
+      ],
+      "result": "minecraft:diamond_block",
+      "count": 1
+    },
+    {
+      "id": "r009",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        null,
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        "minecraft:oak_planks"
+      ],
+      "result": "minecraft:chest",
+      "count": 1
+    },
+    {
+      "id": "r010",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:cobblestone",
+        "minecraft:cobblestone",
+        "minecraft:cobblestone",
+        "minecraft:cobblestone",
+        null,
+        "minecraft:cobblestone",
+        "minecraft:cobblestone",
+        "minecraft:cobblestone",
+        "minecraft:cobblestone"
+      ],
+      "result": "minecraft:furnace",
+      "count": 1
+    },
+    {
+      "id": "r011",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:white_wool",
+        null,
+        "minecraft:white_wool",
+        "minecraft:white_wool",
+        "minecraft:white_wool",
+        "minecraft:white_wool",
+        "minecraft:white_wool",
+        "minecraft:white_wool",
+        "minecraft:white_wool"
+      ],
+      "result": "minecraft:leather_chestplate",
+      "count": 1
+    },
+    {
+      "id": "r012",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:white_wool",
+        "minecraft:white_wool",
+        "minecraft:white_wool",
+        "minecraft:white_wool",
+        null,
+        "minecraft:white_wool",
+        "minecraft:white_wool",
+        null,
+        "minecraft:white_wool"
+      ],
+      "result": "minecraft:leather_leggings",
+      "count": 1
+    },
+    {
+      "id": "r015",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:iron_ingot",
+        null,
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot"
+      ],
+      "result": "minecraft:iron_chestplate",
+      "count": 1
+    },
+    {
+      "id": "r016",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        null,
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        null,
+        "minecraft:iron_ingot"
+      ],
+      "result": "minecraft:iron_leggings",
+      "count": 1
+    },
+    {
+      "id": "r017",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:diamond",
+        null,
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond"
+      ],
+      "result": "minecraft:diamond_chestplate",
+      "count": 1
+    },
+    {
+      "id": "r018",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond",
+        null,
+        "minecraft:diamond",
+        "minecraft:diamond",
+        null,
+        "minecraft:diamond"
+      ],
+      "result": "minecraft:diamond_leggings",
+      "count": 1
+    },
+    {
+      "id": "r019",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:gold_ingot",
+        null,
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot"
+      ],
+      "result": "minecraft:golden_chestplate",
+      "count": 1
+    },
+    {
+      "id": "r020",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        null,
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        null,
+        "minecraft:gold_ingot"
+      ],
+      "result": "minecraft:golden_leggings",
+      "count": 1
+    },
+    {
+      "id": "r021",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:string",
+        "minecraft:string",
+        "minecraft:string",
+        "minecraft:string",
+        "minecraft:string",
+        "minecraft:string",
+        "minecraft:string",
+        "minecraft:string",
+        "minecraft:string"
+      ],
+      "result": "minecraft:white_wool",
+      "count": 1
+    },
+    {
+      "id": "r022",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:gunpowder",
+        "minecraft:sand",
+        "minecraft:gunpowder",
+        "minecraft:sand",
+        "minecraft:gunpowder",
+        "minecraft:sand",
+        "minecraft:gunpowder",
+        "minecraft:sand",
+        "minecraft:gunpowder"
+      ],
+      "result": "minecraft:tnt",
+      "count": 1
+    },
+    {
+      "id": "r023",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:stick",
+        null,
+        "minecraft:stick",
+        "minecraft:stick",
+        "minecraft:stick",
+        "minecraft:stick",
+        "minecraft:stick",
+        null,
+        "minecraft:stick"
+      ],
+      "result": "minecraft:ladder",
+      "count": 1
+    },
+    {
+      "id": "r024",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        null,
+        "minecraft:stick",
+        null
+      ],
+      "result": "minecraft:oak_sign",
+      "count": 1
+    },
+    {
+      "id": "r025",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:stick",
+        "minecraft:stick",
+        "minecraft:stick",
+        "minecraft:stick",
+        "minecraft:white_wool",
+        "minecraft:stick",
+        "minecraft:stick",
+        "minecraft:stick",
+        "minecraft:stick"
+      ],
+      "result": "minecraft:painting",
+      "count": 1
+    },
+    {
+      "id": "r026",
+      "width": 3,
+      "height": 3,
+      "ingredients": [
+        "minecraft:gold_block",
+        "minecraft:gold_block",
+        "minecraft:gold_block",
+        "minecraft:gold_block",
+        "minecraft:apple",
+        "minecraft:gold_block",
+        "minecraft:gold_block",
+        "minecraft:gold_block",
+        "minecraft:gold_block"
+      ],
+      "result": "minecraft:golden_apple",
+      "count": 1
+    },
+    {
+      "id": "r027",
+      "width": 2,
+      "height": 3,
+      "ingredients": [
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        "minecraft:stick",
+        null,
+        "minecraft:stick"
+      ],
+      "result": "minecraft:wooden_axe",
+      "count": 1
+    },
+    {
+      "id": "r028",
+      "width": 2,
+      "height": 3,
+      "ingredients": [
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        null,
+        "minecraft:stick",
+        null,
+        "minecraft:stick"
+      ],
+      "result": "minecraft:wooden_hoe",
+      "count": 1
+    },
+    {
+      "id": "r029",
+      "width": 2,
+      "height": 3,
+      "ingredients": [
+        "minecraft:cobblestone",
+        "minecraft:cobblestone",
+        "minecraft:cobblestone",
+        "minecraft:stick",
+        null,
+        "minecraft:stick"
+      ],
+      "result": "minecraft:stone_axe",
+      "count": 1
+    },
+    {
+      "id": "r030",
+      "width": 2,
+      "height": 3,
+      "ingredients": [
+        "minecraft:cobblestone",
+        "minecraft:cobblestone",
+        null,
+        "minecraft:stick",
+        null,
+        "minecraft:stick"
+      ],
+      "result": "minecraft:stone_hoe",
+      "count": 1
+    },
+    {
+      "id": "r031",
+      "width": 2,
+      "height": 3,
+      "ingredients": [
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:stick",
+        null,
+        "minecraft:stick"
+      ],
+      "result": "minecraft:iron_axe",
+      "count": 1
+    },
+    {
+      "id": "r032",
+      "width": 2,
+      "height": 3,
+      "ingredients": [
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        null,
+        "minecraft:stick",
+        null,
+        "minecraft:stick"
+      ],
+      "result": "minecraft:iron_hoe",
+      "count": 1
+    },
+    {
+      "id": "r033",
+      "width": 2,
+      "height": 3,
+      "ingredients": [
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:stick",
+        null,
+        "minecraft:stick"
+      ],
+      "result": "minecraft:diamond_axe",
+      "count": 1
+    },
+    {
+      "id": "r034",
+      "width": 2,
+      "height": 3,
+      "ingredients": [
+        "minecraft:diamond",
+        "minecraft:diamond",
+        null,
+        "minecraft:stick",
+        null,
+        "minecraft:stick"
+      ],
+      "result": "minecraft:diamond_hoe",
+      "count": 1
+    },
+    {
+      "id": "r035",
+      "width": 2,
+      "height": 3,
+      "ingredients": [
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:stick",
+        null,
+        "minecraft:stick"
+      ],
+      "result": "minecraft:golden_axe",
+      "count": 1
+    },
+    {
+      "id": "r036",
+      "width": 2,
+      "height": 3,
+      "ingredients": [
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        null,
+        "minecraft:stick",
+        null,
+        "minecraft:stick"
+      ],
+      "result": "minecraft:golden_hoe",
+      "count": 1
+    },
+    {
+      "id": "r037",
+      "width": 3,
+      "height": 2,
+      "ingredients": [
+        "minecraft:white_wool",
+        "minecraft:white_wool",
+        "minecraft:white_wool",
+        "minecraft:white_wool",
+        null,
+        "minecraft:white_wool"
+      ],
+      "result": "minecraft:leather_helmet",
+      "count": 1
+    },
+    {
+      "id": "r038",
+      "width": 3,
+      "height": 2,
+      "ingredients": [
+        "minecraft:white_wool",
+        null,
+        "minecraft:white_wool",
+        "minecraft:white_wool",
+        null,
+        "minecraft:white_wool"
+      ],
+      "result": "minecraft:leather_boots",
+      "count": 1
+    },
+    {
+      "id": "r041",
+      "width": 3,
+      "height": 2,
+      "ingredients": [
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        null,
+        "minecraft:iron_ingot"
+      ],
+      "result": "minecraft:iron_helmet",
+      "count": 1
+    },
+    {
+      "id": "r042",
+      "width": 3,
+      "height": 2,
+      "ingredients": [
+        "minecraft:iron_ingot",
+        null,
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        null,
+        "minecraft:iron_ingot"
+      ],
+      "result": "minecraft:iron_boots",
+      "count": 1
+    },
+    {
+      "id": "r043",
+      "width": 3,
+      "height": 2,
+      "ingredients": [
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:diamond",
+        null,
+        "minecraft:diamond"
+      ],
+      "result": "minecraft:diamond_helmet",
+      "count": 1
+    },
+    {
+      "id": "r044",
+      "width": 3,
+      "height": 2,
+      "ingredients": [
+        "minecraft:diamond",
+        null,
+        "minecraft:diamond",
+        "minecraft:diamond",
+        null,
+        "minecraft:diamond"
+      ],
+      "result": "minecraft:diamond_boots",
+      "count": 1
+    },
+    {
+      "id": "r045",
+      "width": 3,
+      "height": 2,
+      "ingredients": [
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        null,
+        "minecraft:gold_ingot"
+      ],
+      "result": "minecraft:golden_helmet",
+      "count": 1
+    },
+    {
+      "id": "r046",
+      "width": 3,
+      "height": 2,
+      "ingredients": [
+        "minecraft:gold_ingot",
+        null,
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        null,
+        "minecraft:gold_ingot"
+      ],
+      "result": "minecraft:golden_boots",
+      "count": 1
+    },
+    {
+      "id": "r047",
+      "width": 2,
+      "height": 3,
+      "ingredients": [
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        "minecraft:oak_planks"
+      ],
+      "result": "minecraft:oak_door",
+      "count": 1
+    },
+    {
+      "id": "r048",
+      "width": 3,
+      "height": 2,
+      "ingredients": [
+        "minecraft:oak_planks",
+        null,
+        "minecraft:oak_planks",
+        null,
+        "minecraft:oak_planks",
+        null
+      ],
+      "result": "minecraft:bowl",
+      "count": 4
+    },
+    {
+      "id": "r049",
+      "width": 3,
+      "height": 2,
+      "ingredients": [
+        "minecraft:iron_ingot",
+        null,
+        "minecraft:iron_ingot",
+        null,
+        "minecraft:iron_ingot",
+        null
+      ],
+      "result": "minecraft:bucket",
+      "count": 1
+    },
+    {
+      "id": "r050",
+      "width": 2,
+      "height": 2,
+      "ingredients": [
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        "minecraft:oak_planks"
+      ],
+      "result": "minecraft:crafting_table",
+      "count": 1
+    },
+    {
+      "id": "r051",
+      "width": 2,
+      "height": 2,
+      "ingredients": [
+        "minecraft:iron_ingot",
+        null,
+        null,
+        "minecraft:flint"
+      ],
+      "result": "minecraft:flint_and_steel",
+      "count": 1
+    },
+    {
+      "id": "r052",
+      "width": 1,
+      "height": 3,
+      "ingredients": [
+        "minecraft:oak_planks",
+        "minecraft:stick",
+        "minecraft:stick"
+      ],
+      "result": "minecraft:wooden_shovel",
+      "count": 1
+    },
+    {
+      "id": "r053",
+      "width": 1,
+      "height": 3,
+      "ingredients": [
+        "minecraft:cobblestone",
+        "minecraft:stick",
+        "minecraft:stick"
+      ],
+      "result": "minecraft:stone_shovel",
+      "count": 1
+    },
+    {
+      "id": "r054",
+      "width": 1,
+      "height": 3,
+      "ingredients": [
+        "minecraft:iron_ingot",
+        "minecraft:stick",
+        "minecraft:stick"
+      ],
+      "result": "minecraft:iron_shovel",
+      "count": 1
+    },
+    {
+      "id": "r055",
+      "width": 1,
+      "height": 3,
+      "ingredients": [
+        "minecraft:diamond",
+        "minecraft:stick",
+        "minecraft:stick"
+      ],
+      "result": "minecraft:diamond_shovel",
+      "count": 1
+    },
+    {
+      "id": "r056",
+      "width": 1,
+      "height": 3,
+      "ingredients": [
+        "minecraft:gold_ingot",
+        "minecraft:stick",
+        "minecraft:stick"
+      ],
+      "result": "minecraft:golden_shovel",
+      "count": 1
+    },
+    {
+      "id": "r057",
+      "width": 1,
+      "height": 3,
+      "ingredients": [
+        "minecraft:oak_planks",
+        "minecraft:oak_planks",
+        "minecraft:stick"
+      ],
+      "result": "minecraft:wooden_sword",
+      "count": 1
+    },
+    {
+      "id": "r058",
+      "width": 1,
+      "height": 3,
+      "ingredients": [
+        "minecraft:cobblestone",
+        "minecraft:cobblestone",
+        "minecraft:stick"
+      ],
+      "result": "minecraft:stone_sword",
+      "count": 1
+    },
+    {
+      "id": "r059",
+      "width": 1,
+      "height": 3,
+      "ingredients": [
+        "minecraft:iron_ingot",
+        "minecraft:iron_ingot",
+        "minecraft:stick"
+      ],
+      "result": "minecraft:iron_sword",
+      "count": 1
+    },
+    {
+      "id": "r060",
+      "width": 1,
+      "height": 3,
+      "ingredients": [
+        "minecraft:diamond",
+        "minecraft:diamond",
+        "minecraft:stick"
+      ],
+      "result": "minecraft:diamond_sword",
+      "count": 1
+    },
+    {
+      "id": "r061",
+      "width": 1,
+      "height": 3,
+      "ingredients": [
+        "minecraft:gold_ingot",
+        "minecraft:gold_ingot",
+        "minecraft:stick"
+      ],
+      "result": "minecraft:golden_sword",
+      "count": 1
+    },
+    {
+      "id": "r062",
+      "width": 1,
+      "height": 3,
+      "ingredients": [
+        "minecraft:iron_ingot",
+        "minecraft:stick",
+        "minecraft:feather"
+      ],
+      "result": "minecraft:arrow",
+      "count": 4
+    },
+    {
+      "id": "r063",
+      "width": 1,
+      "height": 3,
+      "ingredients": [
+        "minecraft:red_mushroom",
+        "minecraft:brown_mushroom",
+        "minecraft:bowl"
+      ],
+      "result": "minecraft:mushroom_stew",
+      "count": 1
+    },
+    {
+      "id": "r064",
+      "width": 1,
+      "height": 3,
+      "ingredients": [
+        "minecraft:brown_mushroom",
+        "minecraft:red_mushroom",
+        "minecraft:bowl"
+      ],
+      "result": "minecraft:mushroom_stew",
+      "count": 1
+    },
+    {
+      "id": "r065",
+      "width": 3,
+      "height": 1,
+      "ingredients": [
+        "minecraft:cobblestone",
+        "minecraft:cobblestone",
+        "minecraft:cobblestone"
+      ],
+      "result": "minecraft:smooth_stone_slab",
+      "count": 3
+    },
+    {
+      "id": "r066",
+      "width": 3,
+      "height": 1,
+      "ingredients": [
+        "minecraft:wheat",
+        "minecraft:wheat",
+        "minecraft:wheat"
+      ],
+      "result": "minecraft:bread",
+      "count": 1
+    },
+    {
+      "id": "r067",
+      "width": 1,
+      "height": 2,
+      "ingredients": [
+        "minecraft:oak_planks",
+        "minecraft:oak_planks"
+      ],
+      "result": "minecraft:stick",
+      "count": 4
+    },
+    {
+      "id": "r068",
+      "width": 1,
+      "height": 2,
+      "ingredients": [
+        "minecraft:coal",
+        "minecraft:stick"
+      ],
+      "result": "minecraft:torch",
+      "count": 4
+    },
+    {
+      "id": "r069",
+      "width": 1,
+      "height": 1,
+      "ingredients": [
+        "minecraft:gold_block"
+      ],
+      "result": "minecraft:gold_ingot",
+      "count": 9
+    },
+    {
+      "id": "r070",
+      "width": 1,
+      "height": 1,
+      "ingredients": [
+        "minecraft:iron_block"
+      ],
+      "result": "minecraft:iron_ingot",
+      "count": 9
+    },
+    {
+      "id": "r071",
+      "width": 1,
+      "height": 1,
+      "ingredients": [
+        "minecraft:diamond_block"
+      ],
+      "result": "minecraft:diamond",
+      "count": 9
+    },
+    {
+      "id": "r072",
+      "width": 1,
+      "height": 1,
+      "ingredients": [
+        "minecraft:oak_log"
+      ],
+      "result": "minecraft:oak_planks",
+      "count": 4
+    }
+  ]
+}

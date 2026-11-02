@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:beta/tree_build_0","display":{"icon":{"id":"minecraft:redstone"},"title":"Mecanismo acionado","description":"Acione um pistão e fique perto dele enquanto estiver estendido.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

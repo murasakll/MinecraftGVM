@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:adventure/tree_prep_0","display":{"icon":{"id":"minecraft:bread"},"title":"Reserva para explorar","description":"Tenha 24 alimentos.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

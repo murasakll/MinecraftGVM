@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:release_1_0/tree_intro","display":{"icon":{"id":"minecraft:netherrack"},"title":"Regresso ao Nether","description":"Visite o Nether na era 1.0.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

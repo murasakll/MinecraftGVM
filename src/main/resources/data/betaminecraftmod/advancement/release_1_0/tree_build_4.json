@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:release_1_0/tree_build_3","display":{"icon":{"id":"minecraft:enchanting_table"},"title":"Uma mesa diferente","description":"Tenha uma mesa de encantamentos.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

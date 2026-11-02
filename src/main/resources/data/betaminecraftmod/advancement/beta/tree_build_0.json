@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:beta/tree_intro","display":{"icon":{"id":"minecraft:piston"},"title":"A força do pistão","description":"Tenha um pistão.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

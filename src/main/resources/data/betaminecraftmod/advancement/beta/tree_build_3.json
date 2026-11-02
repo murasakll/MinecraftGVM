@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:beta/tree_build_2","display":{"icon":{"id":"minecraft:cobblestone"},"title":"Ampliar a defesa","description":"Coloque 80 blocos sólidos na era Beta.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:beta/tree_intro","display":{"icon":{"id":"minecraft:bow"},"title":"Preparado à distância","description":"Tenha um arco.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:release_1_0/tree_prep_2","display":{"icon":{"id":"minecraft:bread"},"title":"Provisões da expedição","description":"Tenha 32 alimentos.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

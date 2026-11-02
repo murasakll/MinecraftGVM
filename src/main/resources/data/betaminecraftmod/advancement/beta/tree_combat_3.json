@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:beta/tree_combat_2","display":{"icon":{"id":"minecraft:string"},"title":"Fios da escuridão","description":"Derrote 4 aranhas.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:halloween/tree_combat_1","display":{"icon":{"id":"minecraft:iron_sword"},"title":"A noite continua","description":"Derrote 12 zumbis naturais nesta era.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:infdev_late/tree_intro","display":{"icon":{"id":"minecraft:stone_pickaxe"},"title":"Reconhecer o território","description":"Percorra a pé a região liberada; teletransportes não contam.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

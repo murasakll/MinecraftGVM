@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:infdev_late/root","display":{"icon":{"id":"minecraft:book"},"title":"Sua jornada","description":"Quatro ramos preparam o cerco. Complete-os, escolha iniciar a horda e, após vencer, decida se quer avançar.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

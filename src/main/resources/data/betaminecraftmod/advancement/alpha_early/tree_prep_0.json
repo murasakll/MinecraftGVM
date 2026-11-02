@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:alpha_early/tree_intro","display":{"icon":{"id":"minecraft:iron_ingot"},"title":"Primeiros suprimentos","description":"Tenha 16 barras de ferro.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

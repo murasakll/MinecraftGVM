@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:release_1_0/tree_explore_3","display":{"icon":{"id":"minecraft:end_stone"},"title":"Outra margem","description":"Entre no End pelo portal.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

@@ -1,0 +1,29 @@
+{
+  "has_precipitation": false,
+  "temperature": 0.8,
+  "downfall": 0.4,
+  "effects": {"water_color": "#3f76e4", "grass_color": "#7fbc3b", "foliage_color": "#48b518"},
+  "carvers": [],
+  "features": [],
+  "attributes": {
+    "minecraft:visual/sky_color": "#99bbff",
+    "minecraft:gameplay/natural_mob_spawns": {
+      "modifier": "override",
+      "argument": {
+        "spawn_costs": {},
+        "spawns_by_category": {
+          "creature": [
+            {"type": "minecraft:pig", "count": 4, "weight": 10},
+            {"type": "minecraft:sheep", "count": 4, "weight": 10}
+          ],
+          "monster": [
+            {"type": "minecraft:zombie", "count": 4, "weight": 10},
+            {"type": "minecraft:skeleton", "count": 4, "weight": 10},
+            {"type": "minecraft:creeper", "count": 4, "weight": 10},
+            {"type": "minecraft:spider", "count": 4, "weight": 10}
+          ]
+        }
+      }
+    }
+  }
+}

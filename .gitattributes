@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.bat text eol=crlf
+# Reference tables are compared byte-for-byte with the embedded runtime tables.
+*.tsv -text
+*.png -text
+*.ogg -text
+*.jar -text

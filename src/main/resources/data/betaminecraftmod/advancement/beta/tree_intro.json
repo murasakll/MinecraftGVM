@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:beta/root","display":{"icon":{"id":"minecraft:book"},"title":"Beta até 1.7.3","description":"Conheça as novidades. Os quatro ramos levam à horda final; só depois da vitória você escolhe avançar.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

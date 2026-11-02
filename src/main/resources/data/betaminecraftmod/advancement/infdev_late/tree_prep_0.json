@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:infdev_late/tree_intro","display":{"icon":{"id":"minecraft:oak_log"},"title":"Primeiros suprimentos","description":"Tenha 32 pedregulhos.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}

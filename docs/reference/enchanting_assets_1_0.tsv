@@ -1,0 +1,4 @@
+# original_entry runtime_resource sha256 width height
+gui/enchant.png assets/betaminecraftmod/textures/gui/enchanting_1_0.png e6ee6eb2e35390988e437efd8a3c1da52e2aa34b38d4f5653818a725868f7079 256 256
+item/book.png assets/betaminecraftmod/textures/gui/enchanting_book_1_0.png e8d58bb3213867793f04f24f990b93b3918b9a70c2ba7351a4702f58c56632cf 64 32
+font/alternate.png assets/betaminecraftmod/textures/font/alternate_1_0.png 9023260a3759af74dccf4dd166f3bc92b844e10c0ae8f099083e0d96a68f2b50 128 128

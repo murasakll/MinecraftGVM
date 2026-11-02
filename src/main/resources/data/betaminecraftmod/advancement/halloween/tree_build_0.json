@@ -1,0 +1,1 @@
+{"parent":"betaminecraftmod:halloween/tree_intro","display":{"icon":{"id":"minecraft:cobblestone"},"title":"Reforçar o território","description":"Coloque 64 blocos sólidos nesta era.","show_toast":false,"announce_to_chat":false,"hidden":false},"criteria":{"completed":{"trigger":"minecraft:impossible"}}}
