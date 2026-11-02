@@ -2,28 +2,30 @@
 
 # Minecraft GVM
 
-Uma viagem pela história do Minecraft, no mesmo mundo.
+A journey through Minecraft history, all in the same world.
 
-Você começa na Infdev de 17/06/2010 e avança pelas eras completando quests de exploração, construção e combate. Cada era termina com uma horda de zumbis. Depois de vencer, você escolhe quando avançar.
+Start in Infdev (June 17, 2010) and progress through the eras by completing exploration, building and combat quests. Each era ends with a zombie horde. After winning, you decide when to move on.
 
-O mundo começa com 1000 × 1000 blocos e cresce 512 blocos por lado a cada avanço. Geração, recursos e mecânicas acompanham a época.
+The world starts at 1000 × 1000 blocks and expands by 512 blocks on each side with every era. World generation, resources and mechanics change along the way.
 
-**Em desenvolvimento:** a base já tem quests e cercos até Adventure. O acesso ao End da 1.0 funciona; a sequência completa desse capítulo ainda está em validação. A jornada até a 26.3 é o objetivo do projeto.
+**Work in progress:** quests and hordes are playable through the Adventure era. End access works in the 1.0 era; its full quest sequence is still being validated. The goal is to reach Minecraft 26.3.
 
-## Jogar
+## Info
 
-Minecraft **26.3**, NeoForge **26.3.0.99** e Java **25**. Use uma campanha nova.
+Minecraft **26.3** · NeoForge **26.3.0.99** · Java **25**
 
-Baixe o JAR em [Actions](https://github.com/murasakll/MinecraftGVM/actions): abra uma compilação concluída e baixe **MinecraftGVM** em **Artifacts**. Extraia o ZIP e coloque o JAR na pasta `mods`.
+**Always start a new world. Do not open existing saves with this mod: they may be permanently damaged.**
 
-## Compilar
+Download the mod from [Releases](https://github.com/murasakll/MinecraftGVM/releases).
 
-Com Java 25 instalado:
+## Build
+
+With Java 25 installed:
 
 ```sh
 ./gradlew build
 ```
 
-No Windows: `gradlew.bat build`. O mod fica em `build/libs/`; use o JAR sem `-slim` no nome.
+On Windows: `gradlew.bat build`. The mod is generated in `build/libs/`; use the JAR without `-slim` in its name.
 
-Criado por Mura.
+Made by Mura.

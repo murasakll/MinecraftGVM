@@ -1,8 +1,9 @@
-name: Compilar mod
+name: Build and release
 
 on:
   push:
     branches: [main]
+    tags: ['v*']
   pull_request:
   workflow_dispatch:
 
@@ -15,20 +16,20 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
-      - name: Baixar projeto
+      - name: Checkout
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
 
-      - name: Preparar Java 25
+      - name: Set up Java 25
         uses: actions/setup-java@b843ebf9b913146b38da2eaa7aeddf76074ae1ad # v6
         with:
           distribution: temurin
           java-version: '25'
           cache: gradle
 
-      - name: Compilar e verificar
+      - name: Build and verify
         run: ./gradlew --no-daemon --max-workers=2 --stacktrace -Dorg.gradle.jvmargs="-Xmx3G -XX:MaxMetaspaceSize=1G" build
 
-      - name: Disponibilizar mod
+      - name: Upload mod
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7
         with:
           name: MinecraftGVM
@@ -37,3 +38,29 @@ jobs:
             !build/libs/*-slim.jar
           if-no-files-found: error
           retention-days: 30
+  release:
+    name: Publish release
+    if: startsWith(github.ref, 'refs/tags/v')
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Download verified mod
+        uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8
+        with:
+          name: MinecraftGVM
+          path: release
+
+      - name: Publish JAR
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          expected="release/betaminecraftmod-${GITHUB_REF_NAME#v}.jar"
+          test -f "$expected"
+          gh release create "$GITHUB_REF_NAME" "$expected" \
+            --repo "$GITHUB_REPOSITORY" \
+            --verify-tag \
+            --title "Minecraft GVM $GITHUB_REF_NAME" \
+            --prerelease \
+            --notes "Experimental build for Minecraft 26.3 / NeoForge 26.3.0.99 / Java 25. Always start a new world. Do not open existing saves: they may be permanently damaged. The full 1.0 quest sequence is still being validated."
